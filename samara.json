@@ -1,14 +1,5 @@
 {
-  "title": "اتصل بنا",
-  "message": "اختار الشخص اللي عايز تتواصل معاه:",
-  "contacts": [
-    {
-      "name": "محمد",
-      "phone": "01206164480"
-    },
-    {
-      "name": "طارق",
-      "phone": "01280901723"
-    }
-  ]
+  "sam": "https://samarahotspot.web.app/samara.html",
+  "tager": "https://samarahotspot.web.app/tager.html"
 }
+
