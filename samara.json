@@ -1,6 +1,6 @@
 {
-  "sam": "1234",
-  "tager": "1234",
+  "sam": "12345",
+  "tager": "12345",
   "buttons": [
     { "text": "زر 1", "url": "https://example.com/1" },
     { "text": "زر 2", "url": "https://example.com/2" },
@@ -16,3 +16,4 @@
     { "text": "زر 12", "url": "https://example.com/12" }
   ]
 }
+
