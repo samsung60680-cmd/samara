@@ -7,6 +7,8 @@
   ],
   "sam": "12345",
   "tager": "12345",
+  "baka": "http://10.10.10.254/video.php",
+  "kastager": "41.196.252.175:7171/admin.php",
   "buttons": [
     { "text": "اليوتيوب", "url": "https://www.youtube.com/" },
     { "text": "جوجل", "url": "https://google.com" },
@@ -24,3 +26,4 @@
   "pass": "123321",
   "passur": "http://41.196.252.175:7171/user.php"
 }
+
