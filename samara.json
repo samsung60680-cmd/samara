@@ -1,4 +1,18 @@
 {
-  "sam": "1234", 
-  "tager": "1234"
+  "sam": "1234",
+  "tager": "1234",
+  "buttons": [
+    { "text": "زر 1", "url": "https://example.com/1" },
+    { "text": "زر 2", "url": "https://example.com/2" },
+    { "text": "زر 3", "url": "https://example.com/3" },
+    { "text": "زر 4", "url": "https://example.com/4" },
+    { "text": "زر 5", "url": "https://example.com/5" },
+    { "text": "زر 6", "url": "https://example.com/6" },
+    { "text": "زر 7", "url": "https://example.com/7" },
+    { "text": "زر 8", "url": "https://example.com/8" },
+    { "text": "زر 9", "url": "https://example.com/9" },
+    { "text": "زر 10", "url": "https://example.com/10" },
+    { "text": "زر 11", "url": "https://example.com/11" },
+    { "text": "زر 12", "url": "https://example.com/12" }
+  ]
 }
