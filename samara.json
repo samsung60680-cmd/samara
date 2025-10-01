@@ -15,6 +15,9 @@
     { "text": "زر 11", "url": "https://example.com/11" },
     { "text": "زر 12", "url": "https://example.com/12" }
   ]
+  "pass": "123321",
+  "passur": "http://41.196.252.175:7171/user.php"
 }
+
 
 
