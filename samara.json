@@ -3,7 +3,6 @@
   "tager": "12345",
   "baka": "http://10.10.10.254/video.php",
   "kastager": "http://41.196.252.175:7171/admin.php",
-  "passur": "http://41.196.252.175:7171/user.php"
   "buttons": [
     { "text": "اليوتيوب", "url": "https://www.youtube.com/" },
     { "text": "جوجل", "url": "https://google.com" },
@@ -19,5 +18,7 @@
     { "text": "زر 12", "url": "https://example.com/12" }
   ],
   "pass": "123321",
+  "passur": "http://41.196.252.175:7171/user.php"
 }
+
 
